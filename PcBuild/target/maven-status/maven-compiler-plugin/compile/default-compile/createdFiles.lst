@@ -1,0 +1,8 @@
+br\com\unipar\pcbuild\models\Pilha.class
+br\com\unipar\pcbuild\models\TipoPecaEnum.class
+br\com\unipar\pcbuild\models\Peca.class
+br\com\unipar\pcbuild\CadastroPeca$1.class
+br\com\unipar\pcbuild\CadastroPeca.class
+br\com\unipar\pcbuild\models\Computador.class
+br\com\unipar\pcbuild\PcBuild$1.class
+br\com\unipar\pcbuild\PcBuild.class
